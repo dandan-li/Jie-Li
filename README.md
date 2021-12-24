@@ -1,5 +1,3 @@
-# Jie-Li
-Additional file 9. The command used to run the software.
 #------------------------Delete low quality reads----------------------------------------------------------------
 
 nNs=5
